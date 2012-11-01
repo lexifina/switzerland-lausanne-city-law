@@ -1,0 +1,4 @@
+# Art. 4e –Tirs - incidents de tir - retrait des cartouches
+1 Chaque tireur est personnellement responsable de l'engagement de son arme. Il al’obligation d'arrêter immédiatement le tir, même lors de tirs commandés, s’il croit déceler un danger pour des personnes ou des animaux, ou un risque d'occasionner des dommages matériels.
+2 Les incidents de tir sont traités en premier lieu par le tireur concerné selon les procédures propres à chaque arme. L'aide d'un moniteur de tir peut (et doit dans certains cas) être requise. Les quatre règles élémentaires de sécurité et celles liées à la manipulation des armes demeurent et doivent être respectées lors d’incidents de tir.
+3 Après les tirs, les moniteurs de tir lors de cours ou les officiels dévolus à cette tâche lors de concours, procèdent au contrôle du retrait des cartouches. Les tireurs isolés sont personnellement responsables du contrôle du retrait des cartouches.
