@@ -1,0 +1,10 @@
+Adopté par le Conseil communal dans sa séance du 5 juin 2007, approuvé par le canton.
+Le président : Le secrétaire : J.-L. Chollet D. Hammer
+Modification du 18 février 2014 : augmentation du plafond de la taxe de l’article 10 de 0,8 ct/kWh à 1,2 ct/kWh, avec entrée en vigueur au 1er juillet 2014, et mise à jour des bases légales des articles 1 et 2. Approuvée par la Cheffe du Département du territoire et de l’environnement, le 14 avril 2014.
+La présidente : Le secrétaire : N. Litzistorf Spina F. Tétaz
+Modifications du 5 novembre 2019 : modification des articles 3 et 6, augmentation du plafond des taxes de respectivement 0.4 ct/kWh et 0.3 ct/kWh à 1.3 ct/kWh. A l’article 3, modification également du nom du Fonds communal pour l’utilisation rationnelle de l’électricité et la promotion des énergies renouvelables en Fonds communal pour l’efficacité énergétique. Approuvées par la Cheffe du Département du territoire et de l’environnement, le 19 novembre 2019, entrées en vigueur, le 1er janvier 2020.
+La présidente : Le secrétaire : E. Aubert F. Tétaz
+Modifications du 14 septembre 2021 : introduction d’une disposition transitoire augmentant les plafonds des taxes fixés par les articles 3 et 6 à 1.9 ct/kWh pour la période 2022 à 2025, avec abrogation automatique de ce nouvel article 17 au 1er janvier 2026. Modification à l’article 13 pour spécifier qu’un recours se dépose bien auprès de la Commission communale de recours en matière d’impôt communal et de taxes spéciales. Approuvée par la Cheffe du Département de l’environnement et de la sécurité, le 3 décembre 2021, entrées en vigueur, le 1er janvier 2022.
+Le président : Le secrétaire : N. Di Giulio F. Tétaz Modification de l’article 12 et nouvel article 13 afin de reprendre, dans un but de cohérence rédactionnelle, les formulations proposées par le règlement-type cantonal s’agissant de la perception de ces taxes. Approuvés par le Chef du Département de la jeunesse, de l'environnement et de la sécurité, le 31 juillet 2025, entrées en vigueur, le 1er novembre 2025.
+Le président : Le secrétaire : E. Bettens F. Tétaz
+Le syndic : Le secrétaire : G. Junod S. Affolter
