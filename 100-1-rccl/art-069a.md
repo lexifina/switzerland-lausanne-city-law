@@ -1,0 +1,2 @@
+# Art. 69a – Question orale
+En principe, l’ordre du jour prévoit, au début de chaque séance, une période pendant laquelle les membres du Conseil peuvent poser des questions orales à la Municipalité ; dans la mesure du possible, cette dernière répond sur-le-champ. La question orale doit être formulée de façon brève (moins de deux minutes) et faire l’objet d’une réponse brève. La présidente ou le président rappelle à l'ordre la personne qui intervient trop longuement.
