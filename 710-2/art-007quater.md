@@ -1,0 +1,2 @@
+# Art. 7quater– Autorisation d’usage des bornes de recharge
+Peuvent bénéficier de l’autorisation pour l’utilisation des places de recharge destinées aux résidents, les personnes inscrites auprès du Contrôle des habitants de la Commune de Lausanne pour les voitures automobiles légères immatriculées à leur nom et prénom et adresse de résidence ainsi que les personnes conduisant des taxis électriques au bénéfice d'une concession ou assimilé de l'association intercommunale des taxis.
