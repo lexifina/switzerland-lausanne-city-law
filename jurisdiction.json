@@ -1,0 +1,11 @@
+{
+  "path": "ch-vd-lausanne",
+  "code": "CH-VD-LAUSANNE",
+  "name": "Lausanne (city)",
+  "level": "municipality",
+  "parent": "ch-vd",
+  "repo": "https://github.com/lexifina/switzerland-lausanne-city-law",
+  "build": "built: municipal règlements (54 acts, 54 versions) from the Recueil systématique du droit communal",
+  "language": "fr",
+  "sources": 1
+}

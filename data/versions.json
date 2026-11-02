@@ -1,0 +1,761 @@
+{
+ "country": "CH-VD-LAUSANNE",
+ "acts": [
+  {
+   "slug": "100-1-rccl",
+   "short": "RCCL",
+   "title": "Règlement du Conseil communal de Lausanne",
+   "url": "https://www.lausanne.ch/apps/actualites/index_recueil.php?id_recueil=7",
+   "versions": [
+    {
+     "from": "2025-11-24",
+     "units": 144,
+     "source_url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=7&kind=recueil",
+     "sha256": "6a928b2eb3de845468d8a3b29d02552604d25bcdb0bd5fcdaf211797c2e0171c"
+    }
+   ]
+  },
+  {
+   "slug": "101-3",
+   "short": "101.3",
+   "title": "Règlement concernant le traitement et la prévoyance professionnelle des membres de la Municipalité",
+   "url": "https://www.lausanne.ch/apps/actualites/index_recueil.php?id_recueil=10",
+   "versions": [
+    {
+     "from": "2025-06-10",
+     "units": 13,
+     "source_url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=10&kind=recueil",
+     "sha256": "bfbb00de1683ca95bf8d04ffb2eea8b9e598f298225f9fedd4340e423fe5037f"
+    }
+   ]
+  },
+  {
+   "slug": "101-5",
+   "short": "101.5",
+   "title": "Règlement de la Commission consultative des sports",
+   "url": "https://www.lausanne.ch/apps/actualites/index_recueil.php?id_recueil=204",
+   "versions": [
+    {
+     "from": "2023-05-01",
+     "units": 11,
+     "source_url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=204&kind=recueil",
+     "sha256": "bb9a7c5e6ce1aea2293c0487c3e2822a4d14c42b56ccec890d565efed4551c4f"
+    }
+   ]
+  },
+  {
+   "slug": "101-10",
+   "short": "101.10",
+   "title": "Règlement de la commission consultative municipale des \"seniors\"",
+   "url": "https://www.lausanne.ch/apps/actualites/index_recueil.php?id_recueil=275",
+   "versions": [
+    {
+     "from": "2019-09-26",
+     "units": 11,
+     "source_url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=275&kind=recueil",
+     "sha256": "010c0139b42972c6f57d8a40c7d391acdb1e587d7a2ea8f8b536cc4ded0ae480"
+    }
+   ]
+  },
+  {
+   "slug": "102-4",
+   "short": "102.4",
+   "title": "Règlement interne du Fonds de secours",
+   "url": "https://www.lausanne.ch/apps/actualites/index_recueil.php?id_recueil=15",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 10,
+     "source_url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=15&kind=recueil",
+     "sha256": "1f3ba640d5a3647e999b6583264fbadabab61a22c42ab90aa78b60f5c0c29226"
+    }
+   ]
+  },
+  {
+   "slug": "120-1",
+   "short": "120.1",
+   "title": "Règlement communal sur la vidéosurveillance",
+   "url": "https://www.lausanne.ch/apps/actualites/index_recueil.php?id_recueil=19",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 15,
+     "source_url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=19&kind=recueil",
+     "sha256": "748a87bb127ce464fb7865f9bfd1889f840f17c2614bbd01e86eb3526f0c441f"
+    }
+   ]
+  },
+  {
+   "slug": "401-1",
+   "short": "401.1",
+   "title": "Règlement de la patinoire de Montchoisi",
+   "url": "https://www.lausanne.ch/apps/actualites/index_recueil.php?id_recueil=32",
+   "versions": [
+    {
+     "from": "2016-09-01",
+     "units": 21,
+     "source_url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=32&kind=recueil",
+     "sha256": "2722f83f5a47072f01644c73baabcf5544648b0e63b360b44df76d8f638ac746"
+    }
+   ]
+  },
+  {
+   "slug": "401-2",
+   "short": "401.2",
+   "title": "Règlement de la patinoire de la Pontaise",
+   "url": "https://www.lausanne.ch/apps/actualites/index_recueil.php?id_recueil=159",
+   "versions": [
+    {
+     "from": "2016-09-01",
+     "units": 20,
+     "source_url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=159&kind=recueil",
+     "sha256": "b9eacfece687132e62e730276575da3349c4ffb6a2287881fb8663f1e19a95f1"
+    }
+   ]
+  },
+  {
+   "slug": "402-1",
+   "short": "402.1",
+   "title": "Règlement du centre omnisports des Bergières",
+   "url": "https://www.lausanne.ch/apps/actualites/index_recueil.php?id_recueil=34",
+   "versions": [
+    {
+     "from": "2004-09-17",
+     "units": 16,
+     "source_url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=34&kind=recueil",
+     "sha256": "14a3d83034bd07b3cdb8f7bd71fe9ae8f73124bae4e9503fc428b1a4ce1d3bee"
+    }
+   ]
+  },
+  {
+   "slug": "402-2",
+   "short": "402.2",
+   "title": "Règlement du bâtiment-vestiaires du centre sportif de Mauvernay",
+   "url": "https://www.lausanne.ch/apps/actualites/index_recueil.php?id_recueil=35",
+   "versions": [
+    {
+     "from": "1990-08-01",
+     "units": 18,
+     "source_url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=35&kind=recueil",
+     "sha256": "53690e744ba961bc0f0e91e347dc2ec3994066bf144f8dce19bca04f81c367a3"
+    }
+   ]
+  },
+  {
+   "slug": "402-3",
+   "short": "402.3",
+   "title": "Règlement du centre omnisports de Grand-Vennes",
+   "url": "https://www.lausanne.ch/apps/actualites/index_recueil.php?id_recueil=36",
+   "versions": [
+    {
+     "from": "2004-09-17",
+     "units": 16,
+     "source_url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=36&kind=recueil",
+     "sha256": "56d02f73d690d1cf77787a50733ee86f83fc283ae2e796e2c309fcfd36efae35"
+    }
+   ]
+  },
+  {
+   "slug": "402-4",
+   "short": "402.4",
+   "title": "Règlement du centre omnisports de la Vallée de la Jeunesse",
+   "url": "https://www.lausanne.ch/apps/actualites/index_recueil.php?id_recueil=37",
+   "versions": [
+    {
+     "from": "2004-09-17",
+     "units": 16,
+     "source_url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=37&kind=recueil",
+     "sha256": "0b28256ca699934c8bec406a77a48ef54eeabdb5eb46460153b5989bf11cc819"
+    }
+   ]
+  },
+  {
+   "slug": "402-5",
+   "short": "402.5",
+   "title": "Règlement du centre de tir sportif de Vernand",
+   "url": "https://www.lausanne.ch/apps/actualites/index_recueil.php?id_recueil=38",
+   "versions": [
+    {
+     "from": "2012-11-01",
+     "units": 24,
+     "source_url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=38&kind=recueil",
+     "sha256": "e98c97441064309c052da4bc627ec89ee1327f3e9114de6a0c3b5a2259aeef1f"
+    }
+   ]
+  },
+  {
+   "slug": "402-6",
+   "short": "402.6",
+   "title": "Règlement de la salle omnisports du Vieux-Moulin",
+   "url": "https://www.lausanne.ch/apps/actualites/index_recueil.php?id_recueil=39",
+   "versions": [
+    {
+     "from": "2006-01-01",
+     "units": 16,
+     "source_url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=39&kind=recueil",
+     "sha256": "a3a55ad27a6a3e222cf0f04fa811f18305e0387b0be11c30e046d64f9faa6768"
+    }
+   ]
+  },
+  {
+   "slug": "402-7",
+   "short": "402.7",
+   "title": "Règlement d’utilisation des installations du centre sportif de Chavannes",
+   "url": "https://www.lausanne.ch/apps/actualites/index_recueil.php?id_recueil=160",
+   "versions": [
+    {
+     "from": "1997-09-01",
+     "units": 11,
+     "source_url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=160&kind=recueil",
+     "sha256": "aa2197d0809602aec0e28dd7835d67868b7cedadc64507ebcf6c4efa4e5ad083"
+    }
+   ]
+  },
+  {
+   "slug": "402-8",
+   "short": "402.8",
+   "title": "Règlement du centre sportif de la Tuilière",
+   "url": "https://www.lausanne.ch/apps/actualites/index_recueil.php?id_recueil=161",
+   "versions": [
+    {
+     "from": "2018-02-01",
+     "units": 16,
+     "source_url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=161&kind=recueil",
+     "sha256": "d658da1df9f1c216d0f2b7de4ce766e49e53bc03994b930445616d2db9d500fb"
+    }
+   ]
+  },
+  {
+   "slug": "404-1",
+   "short": "404.1",
+   "title": "Prescriptions municipales en matière d'octroi de subventions et d'aides dans le domaine sportif",
+   "url": "https://www.lausanne.ch/apps/actualites/index_recueil.php?id_recueil=43",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 38,
+     "source_url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=43&kind=recueil",
+     "sha256": "76efb6695d79004a96638a7b9b93b4c1fead066636ccbe4def7a8b7d38c39686"
+    }
+   ]
+  },
+  {
+   "slug": "405-1",
+   "short": "405.1",
+   "title": "Prescriptions municipales en matière de récompenses dans le domaine sportif",
+   "url": "https://www.lausanne.ch/apps/actualites/index_recueil.php?id_recueil=44",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 11,
+     "source_url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=44&kind=recueil",
+     "sha256": "394e69ae2e8e1451a7600f61220acb2c34559efbf21c24a3b5049f8c1e10e686"
+    }
+   ]
+  },
+  {
+   "slug": "405-2",
+   "short": "405.2",
+   "title": "Dispositions réglementaires \"Prix du Mérite sportif lausannois\"",
+   "url": "https://www.lausanne.ch/apps/actualites/index_recueil.php?id_recueil=45",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 11,
+     "source_url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=45&kind=recueil",
+     "sha256": "9dc6d3a0b67efd8a60a99eedd949cb7b8aa1a55ec378417cbe687fbe55f08d9d"
+    }
+   ]
+  },
+  {
+   "slug": "405-3",
+   "short": "405.3",
+   "title": "Dispositions règlementaires Récompense \"Prix Sport & Égalité\"",
+   "url": "https://www.lausanne.ch/apps/actualites/index_recueil.php?id_recueil=46",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 11,
+     "source_url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=46&kind=recueil",
+     "sha256": "f5a24641fb6521b91b0d86c2c944418edb91a02b3cdba1af9abccee9cbd131fe"
+    }
+   ]
+  },
+  {
+   "slug": "405-4",
+   "short": "405.4",
+   "title": "Dispositions règlementaires \"Récompense Lausanne La Sportive\"",
+   "url": "https://www.lausanne.ch/apps/actualites/index_recueil.php?id_recueil=47",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 13,
+     "source_url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=47&kind=recueil",
+     "sha256": "9683eaa9cd78c5f43c7badd5b5fe3b13c639cff035a518e8985ad6e4c0a6c32e"
+    }
+   ]
+  },
+  {
+   "slug": "420-1",
+   "short": "420.1",
+   "title": "Règlement de consultation et d'utilisation des Archives de la Ville",
+   "url": "https://www.lausanne.ch/apps/actualites/index_recueil.php?id_recueil=50",
+   "versions": [
+    {
+     "from": "2021-07-01",
+     "units": 20,
+     "source_url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=50&kind=recueil",
+     "sha256": "449af2ffc727fc9163a241a2ff73d2413fa2f4150d477ff07d9f75b7133fdf1a"
+    }
+   ]
+  },
+  {
+   "slug": "440-1",
+   "short": "440.1",
+   "title": "Règlement de la bourse à la création littéraire de la Ville de Lausanne",
+   "url": "https://www.lausanne.ch/apps/actualites/index_recueil.php?id_recueil=53",
+   "versions": [
+    {
+     "from": "2015-05-19",
+     "units": 5,
+     "source_url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=53&kind=recueil",
+     "sha256": "38b5ee20c3434df73b3b4c2af35afa86e26b926ce56fe6b1d2824518f4a190a2"
+    }
+   ]
+  },
+  {
+   "slug": "440-2",
+   "short": "440.2",
+   "title": "Règlement du Prix des lecteurs de la Ville de Lausanne",
+   "url": "https://www.lausanne.ch/apps/actualites/index_recueil.php?id_recueil=54",
+   "versions": [
+    {
+     "from": "2015-07-10",
+     "units": 7,
+     "source_url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=54&kind=recueil",
+     "sha256": "926582f35e60abc7eca4e731b0fa9d31218f49119326b61404e51c8bca6fbe22"
+    }
+   ]
+  },
+  {
+   "slug": "440-3",
+   "short": "440.3",
+   "title": "Règlement du Fonds des arts plastiques de la Ville de Lausanne",
+   "url": "https://www.lausanne.ch/apps/actualites/index_recueil.php?id_recueil=163",
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "units": 23,
+     "source_url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=163&kind=recueil",
+     "sha256": "2a277fbefba54b1c81d4988b450358ce0cf80a016a995772c1e67a69f576b1c0"
+    }
+   ]
+  },
+  {
+   "slug": "451-1",
+   "short": "451.1",
+   "title": "Dispositions réglementaires relatives à l’attribution des attestations et des bons de réduction pour les abonnements de transports publics",
+   "url": "https://www.lausanne.ch/apps/actualites/index_recueil.php?id_recueil=165",
+   "versions": [
+    {
+     "from": "2016-08-01",
+     "units": 20,
+     "source_url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=165&kind=recueil",
+     "sha256": "9cf74349354d4c07d31da01c66c07fa4d805ec79698218e79a13e0624bd20bbe"
+    }
+   ]
+  },
+  {
+   "slug": "501-1",
+   "short": "501.1",
+   "title": "Dispositions réglementaires des espaces verts de la Commune de Lausanne",
+   "url": "https://www.lausanne.ch/apps/actualites/index_recueil.php?id_recueil=143",
+   "versions": [
+    {
+     "from": "2021-07-01",
+     "units": 20,
+     "source_url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=143&kind=recueil",
+     "sha256": "cde94ee188ecf638f840864a673f9f8810e74336fcf2d159f3d65254221549a0"
+    }
+   ]
+  },
+  {
+   "slug": "502-1",
+   "short": "502.1",
+   "title": "Dispositions réglementaires sur la prostitution de rue sur le territoire de la Commune de Lausanne",
+   "url": "https://www.lausanne.ch/apps/actualites/index_recueil.php?id_recueil=144",
+   "versions": [
+    {
+     "from": "2018-04-15",
+     "units": 11,
+     "source_url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=144&kind=recueil",
+     "sha256": "49c68888f94281415da3878df2ab5e84195bd1f925c6805677fdb7607824eb63"
+    }
+   ]
+  },
+  {
+   "slug": "503-1",
+   "short": "503.1",
+   "title": "Dispositions réglementaires municipales concernant les chiens",
+   "url": "https://www.lausanne.ch/apps/actualites/index_recueil.php?id_recueil=145",
+   "versions": [
+    {
+     "from": "2015-01-13",
+     "units": 31,
+     "source_url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=145&kind=recueil",
+     "sha256": "6b2a309808794761448761da530171ed9d078edf8a9f003011a01b3e6c2abfe6"
+    }
+   ]
+  },
+  {
+   "slug": "503-2",
+   "short": "503.2",
+   "title": "Tarif municipal des émoluments perçus concernant les procédures en lien avec les chiens",
+   "url": "https://www.lausanne.ch/apps/actualites/index_recueil.php?id_recueil=146",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 17,
+     "source_url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=146&kind=recueil",
+     "sha256": "a09f70d1220a60d82cba2aaad4460188e878644920e32d91d839ac6d4f1885f8"
+    }
+   ]
+  },
+  {
+   "slug": "511-1",
+   "short": "511.1",
+   "title": "Règlement de la commission préposée à la déontologie",
+   "url": "https://www.lausanne.ch/apps/actualites/index_recueil.php?id_recueil=139",
+   "versions": [
+    {
+     "from": "2008-10-01",
+     "units": 16,
+     "source_url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=139&kind=recueil",
+     "sha256": "b941011c12538adeea8a0da39f0ddb336448e20bcc3c1dcca70adbe21b44f154"
+    }
+   ]
+  },
+  {
+   "slug": "511-2",
+   "short": "511.2",
+   "title": "Statuts du Comité d’éthique du Corps de police de Lausanne",
+   "url": "https://www.lausanne.ch/apps/actualites/index_recueil.php?id_recueil=140",
+   "versions": [
+    {
+     "from": "2008-10-01",
+     "units": 29,
+     "source_url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=140&kind=recueil",
+     "sha256": "9d28590d579a04559fc4130699b3c14d53255bdb263158048f9b05e321385fb3"
+    }
+   ]
+  },
+  {
+   "slug": "520-1",
+   "short": "520.1",
+   "title": "Règlement du service de défense contre l’incendie et de secours de la Ville de Lausanne",
+   "url": "https://www.lausanne.ch/apps/actualites/index_recueil.php?id_recueil=210",
+   "versions": [
+    {
+     "from": "2014-12-23",
+     "units": 56,
+     "source_url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=210&kind=recueil",
+     "sha256": "a6202c351ed888249ff314f9e62f4d997cae4bd1f3611dcd90c90a94a06de8d4"
+    }
+   ]
+  },
+  {
+   "slug": "521-1-rpof",
+   "short": "RPOF",
+   "title": "Règlement sur la Police du feu de la Ville de Lausanne",
+   "url": "https://www.lausanne.ch/apps/actualites/index_recueil.php?id_recueil=137",
+   "versions": [
+    {
+     "from": "2014-12-23",
+     "units": 18,
+     "source_url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=137&kind=recueil",
+     "sha256": "9d2e09f4810015ea346e09b79035e5df89d62365c28be3186fa40d4d489edbb9"
+    }
+   ]
+  },
+  {
+   "slug": "610-1",
+   "short": "610.1",
+   "title": "Arrêté d’imposition de la Commune de Lausanne pour les année 2025 - 2029",
+   "url": "https://www.lausanne.ch/apps/actualites/index_recueil.php?id_recueil=58",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 12,
+     "source_url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=58&kind=recueil",
+     "sha256": "c7acad1b8572e0b18721ce1643ce40801c27ca6ca206d5e99c1cd5a0d2f50ffe"
+    }
+   ]
+  },
+  {
+   "slug": "612-1-rits",
+   "short": "RITS",
+   "title": "Règlement intercommunal sur la taxe de séjour",
+   "url": "https://www.lausanne.ch/apps/actualites/index_recueil.php?id_recueil=60",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 28,
+     "source_url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=60&kind=recueil",
+     "sha256": "36ca0558868ac0847481265a23b0c537cacad6dcbbdb06484d4bfd6addb88007"
+    }
+   ]
+  },
+  {
+   "slug": "701-1",
+   "short": "701.1",
+   "title": "Règlement concernant la taxe relative au financement de l’équipement communautaire communal et intercommunal, perçue lors de l’adoption de mesures d’aménagement du territoire augmentant sensiblement la valeur de bien-fonds",
+   "url": "https://www.lausanne.ch/apps/actualites/index_recueil.php?id_recueil=70",
+   "versions": [
+    {
+     "from": "2020-06-26",
+     "units": 16,
+     "source_url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=70&kind=recueil",
+     "sha256": "2fd5e7fc0876bbfd7f9dd7287d91a333e002fe12c59177e97a59c065dd977b2a"
+    }
+   ]
+  },
+  {
+   "slug": "701-2",
+   "short": "701.2",
+   "title": "Tarif municipal concernant la taxe relative au financement de l'équipement communautaire communal et intercommunal, perçue lors de l'adoption de mesures d'aménagement du territoire augmentant sensiblement la valeur de biens-fonds",
+   "url": "https://www.lausanne.ch/apps/actualites/index_recueil.php?id_recueil=309",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 5,
+     "source_url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=309&kind=recueil",
+     "sha256": "7fe73a1b7c57cf7ae61dcc7118a5021091eda28d4f2c0e44293782b4ea5c833e"
+    }
+   ]
+  },
+  {
+   "slug": "710-2",
+   "short": "710.2",
+   "title": "Dispositions réglementaires municipales pour le stationnement privilégié des résidents et des entreprises sur la voie publique",
+   "url": "https://www.lausanne.ch/apps/actualites/index_recueil.php?id_recueil=80",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 20,
+     "source_url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=80&kind=recueil",
+     "sha256": "122e46fa64064ed7c2280f6481650690ac3699a6755493f0ce397e129eee0968"
+    }
+   ]
+  },
+  {
+   "slug": "730-1",
+   "short": "730.1",
+   "title": "Règlement sur la distribution de l'eau de la Commune de Lausanne",
+   "url": "https://www.lausanne.ch/apps/actualites/index_recueil.php?id_recueil=288",
+   "versions": [
+    {
+     "from": "2016-08-01",
+     "units": 58,
+     "source_url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=288&kind=recueil",
+     "sha256": "f2915395496e126dec23d0be1ea54b1ce0215a5261ba81c5e33e91c3fc59c217"
+    }
+   ]
+  },
+  {
+   "slug": "731-1",
+   "short": "731.1",
+   "title": "Règlement sur l'évacuation et le traitement des eaux",
+   "url": "https://www.lausanne.ch/apps/actualites/index_recueil.php?id_recueil=286",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 69,
+     "source_url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=286&kind=recueil",
+     "sha256": "342816eeec76c5e4656ad606bc0c54616ed7d7742e668567f8a7c113c48bcc63"
+    }
+   ]
+  },
+  {
+   "slug": "742-4",
+   "short": "742.4",
+   "title": "Règlement sur les indemnités communales liées à la distribution d’électricité",
+   "url": "https://www.lausanne.ch/apps/actualites/index_recueil.php?id_recueil=272",
+   "versions": [
+    {
+     "from": "2025-11-01",
+     "units": 21,
+     "source_url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=272&kind=recueil",
+     "sha256": "97be7a391d0957e2ef0265e631871e5fb39a775461850071e8b155e8c18c1cd0"
+    }
+   ]
+  },
+  {
+   "slug": "742-5",
+   "short": "742.5",
+   "title": "Tarif municipal des taxes communales liées à la distribution de l'électricité",
+   "url": "https://www.lausanne.ch/apps/actualites/index_recueil.php?id_recueil=282",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 6,
+     "source_url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=282&kind=recueil",
+     "sha256": "a18c72ee7da177e8ba24e5c5913e99a89dfcfad10ad9d9519b46f3a5161616b2"
+    }
+   ]
+  },
+  {
+   "slug": "750-1",
+   "short": "750.1",
+   "title": "Règlement communal relatif à l'octroi d'une concession pour les installations d'eau",
+   "url": "https://www.lausanne.ch/apps/actualites/index_recueil.php?id_recueil=287",
+   "versions": [
+    {
+     "from": "2025-05-01",
+     "units": 22,
+     "source_url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=287&kind=recueil",
+     "sha256": "f092a0b191fae3d26fa32d4256cd0b1a6eeb4988307b9dd814e17bb957fc4fa1"
+    }
+   ]
+  },
+  {
+   "slug": "800-1",
+   "short": "800.1",
+   "title": "Statuts de la Fondation lausannoise d’aide par le travail (FLAT)",
+   "url": "https://www.lausanne.ch/apps/actualites/index_recueil.php?id_recueil=103",
+   "versions": [
+    {
+     "from": "2019-12-09",
+     "units": 11,
+     "source_url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=103&kind=recueil",
+     "sha256": "114e61bf680b609b0a3831cf658c43e0760a03ed0eea8a4def97da086c74fae4"
+    }
+   ]
+  },
+  {
+   "slug": "800-2",
+   "short": "800.2",
+   "title": "Règlement de la Fondation lausannoise d’aide par le travail (FLAT)",
+   "url": "https://www.lausanne.ch/apps/actualites/index_recueil.php?id_recueil=104",
+   "versions": [
+    {
+     "from": "2012-12-10",
+     "units": 9,
+     "source_url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=104&kind=recueil",
+     "sha256": "a071f683ae1bae7184dcaf8f1a335a83b89d0ffc3e0fbbd7fb0ccd5a5e9a5e35"
+    }
+   ]
+  },
+  {
+   "slug": "810-1",
+   "short": "810.1",
+   "title": "Règlement communal sur les conditions d’occupation des logements construits ou rénovés avec l’appui financier de la Commune de Lausanne",
+   "url": "https://www.lausanne.ch/apps/actualites/index_recueil.php?id_recueil=170",
+   "versions": [
+    {
+     "from": "2015-08-01",
+     "units": 24,
+     "source_url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=170&kind=recueil",
+     "sha256": "2fdb05d6e9b07b46a37c2c5639beb362179c891a802cfab567ca9ab7064a8cc9"
+    }
+   ]
+  },
+  {
+   "slug": "811-1",
+   "short": "811.1",
+   "title": "Règlement communal sur l’aide individuelle au logement",
+   "url": "https://www.lausanne.ch/apps/actualites/index_recueil.php?id_recueil=118",
+   "versions": [
+    {
+     "from": "2015-08-01",
+     "units": 9,
+     "source_url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=118&kind=recueil",
+     "sha256": "0f97d8534aad57979c3de2a51dd72398fff6ebc98297d3b946db51d28f36f055"
+    }
+   ]
+  },
+  {
+   "slug": "821-1",
+   "short": "821.1",
+   "title": "Prescriptions municipales pour le transport de personnes à mobilité réduite",
+   "url": "https://www.lausanne.ch/apps/actualites/index_recueil.php?id_recueil=202",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 12,
+     "source_url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=202&kind=recueil",
+     "sha256": "bd6042c713288f92e4f8b4cabb9efc9fb5682da3113ba3c1fb244a3f9492d865"
+    }
+   ]
+  },
+  {
+   "slug": "840-1",
+   "short": "840.1",
+   "title": "Règlement d’utilisation du Fonds communal pour le développement durable du 25 septembre 2012",
+   "url": "https://www.lausanne.ch/apps/actualites/index_recueil.php?id_recueil=201",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 21,
+     "source_url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=201&kind=recueil",
+     "sha256": "81e6e01cc37767b97da6044751dc25f005596955fd5d99272226d531cb021175"
+    }
+   ]
+  },
+  {
+   "slug": "840-2",
+   "short": "840.2",
+   "title": "Règlement sur le Fonds communal pour l'efficacité énergétique",
+   "url": "https://www.lausanne.ch/apps/actualites/index_recueil.php?id_recueil=277",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 20,
+     "source_url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=277&kind=recueil",
+     "sha256": "ff94474e6c455d40a920f719eb76179723f8cd4bfe55d153b70267e1bbc1d699"
+    }
+   ]
+  },
+  {
+   "slug": "902-1",
+   "short": "902.1",
+   "title": "Prescriptions municipales relatives aux musiciens et chanteurs de rue",
+   "url": "https://www.lausanne.ch/apps/actualites/index_recueil.php?id_recueil=183",
+   "versions": [
+    {
+     "from": "1985-06-26",
+     "units": 19,
+     "source_url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=183&kind=recueil",
+     "sha256": "b8122c94befe6f8f6a9a102a6c2a4ecb04c03e0bd6da4a6c337de4da0bfb474b"
+    }
+   ]
+  },
+  {
+   "slug": "903-3",
+   "short": "903.3",
+   "title": "Tarif municipal relatif aux avancements et aux prolongations des horaires d’ouverture des établissements et des manifestations",
+   "url": "https://www.lausanne.ch/apps/actualites/index_recueil.php?id_recueil=187",
+   "versions": [
+    {
+     "from": "2013-06-01",
+     "units": 8,
+     "source_url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=187&kind=recueil",
+     "sha256": "494143eec0acf840b7ecde6662c7dc0649968a394a77688d7037ca0aaa48d342"
+    }
+   ]
+  },
+  {
+   "slug": "910-1",
+   "short": "910.1",
+   "title": "Règlement sur les procédés de réclames",
+   "url": "https://www.lausanne.ch/apps/actualites/index_recueil.php?id_recueil=188",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 32,
+     "source_url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=188&kind=recueil",
+     "sha256": "d0e972ea845a3a306b1b1fe2c9c2b2f9796979e5b04b3115cae60e494f7f4325"
+    }
+   ]
+  }
+ ]
+}
